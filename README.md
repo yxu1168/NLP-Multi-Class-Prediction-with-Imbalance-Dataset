@@ -5,6 +5,6 @@
 ### 3. Random Forest prediction with imblearn undersampling methods.
 ### 4. CNN/BiLSTM model with NLP Augmentation.
 ### 5. CNN/BiLSTM, ANN, BERT models and comparison with their performance.
-### Applied NLP Augmentation for minority classes and compared result with original data.
-### Reduced majority class sample size and compared result with original data result.
-### Bert outperformance CNN/BiLSTM and ANN models.
+### Applied NLP Augmentation and SMOTE technique for minority classes and compared result with original data.
+### Undersampling majority class with NearMiss etc. techniques and compared result with original data result.
+### Bert outperformance to CNN/BiLSTM and ANN models.
