@@ -1,5 +1,5 @@
 # NLP-Multilabels-Classification-Prediction-with-Imbalance-Data
-### This repo is to find solutions for NLP multilabels with imbalance data problem. It includes 6 Notebooks:
+### This is a current real world NLP problem from a finacial company. Th repo is to find solutions for NLP multilabels with imbalance data problem. It includes 6 Notebooks:
 * 1. Random Forest Prediction with TF-IDF vectorizer.
 * 2. Random Forest prediction with pre-trained Word2Vec embedding and imblearn SMOTE oversampling.
 * 3. Random Forest prediction with imblearn undersampling methods.
