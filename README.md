@@ -1,5 +1,5 @@
 # NLP-Multilabels-Classification-Prediction-with-Imbalance-Data
-### This is a current real world NLP problem from a finacial company. Th repo is to find solutions for NLP multilabels with imbalance data problem. It includes 6 Notebooks:
+### This is a current real world NLP problem from a finacial company. The data has 11 categories which is from MarletteFunding. I provided solutions from classic ML to Nueral Network and BERT, implemented NLP augmentation, SMOTE etc, techniques to solve multi-class problem with imbalance data. It includes 6 Notebooks:
 * 1. Random Forest Prediction with TF-IDF vectorizer.
 * 2. Random Forest prediction with pre-trained Word2Vec embedding and imblearn SMOTE oversampling.
 * 3. Random Forest prediction with imblearn undersampling methods.
